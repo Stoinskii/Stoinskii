@@ -9,7 +9,6 @@
 	- ["Advanced Penetration Testing: Hacking the World's Most Secure Networks" by Wil Allsopp](https://amzn.to/4csypB3)
 
 # Obsidian Graph View 👾
-____
 
 State of my kb in Obsidian created in last 10 months, mainly networking pentest tools, notes from courses and certifications, reports and CTF's walkthroughs.
 
