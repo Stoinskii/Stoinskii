@@ -10,7 +10,7 @@
 
 # Obsidian Graph View 👾
 
-State of my kb in Obsidian created in last 10 months, mainly networking pentest tools, notes from courses and certifications, reports and CTF's walkthroughs.
+State of my kb in Obsidian developed over the last 10 months, mainly networking pentest tools, notes from courses and certifications, reports and CTF's walkthroughs.
 
   ![Pasted image 20240325104948](https://github.com/Stoinskii/Horacy/assets/57113087/b16117a8-63ed-4907-a528-2a53f97b19f2)
 
