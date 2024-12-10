@@ -1,6 +1,6 @@
 
-- Security Researcher / Bug Hunter.
-- Practical Junior Web Tester certified by TCM Sec. 
+- Security Administrator / Bug Hunter.
+- Practical Junior Web Tester certified by TCM Sec.
 - Python, Bash, HTML, CSS, JS, in free time C++ for fun game dev.
 - CTF player, THM, HTB, VulnHub.
 - Bookworm: 
